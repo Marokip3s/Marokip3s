@@ -1,6 +1,6 @@
 <h1 align="center">Hi&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm Marokip3s</h1>
 
-<h3 align="center"> I'm a Student & A part time Programmer�&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p>
+<h3 align="center">∆ I'm a Student & A part time Programmer∆&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p>
 
 <b><i></i></b>
 
@@ -9,7 +9,6 @@
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Studying at Marrakech</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Single</i></li>
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
